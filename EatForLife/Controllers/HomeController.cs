@@ -10,6 +10,7 @@ namespace EatForLife.Controllers
     {
         public IActionResult Index()
         {
+					var a = "";
             return View();
         }
 
